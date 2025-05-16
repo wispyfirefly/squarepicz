@@ -1,0 +1,30 @@
+/**
+* @name squarepicz
+* @author flowerview
+* @version 1.0.0
+* @description Makes most user icons square with a border.
+*/
+
+foreignObject[mask*="url(#"] {
+    mask: none;
+	border-radius: 5px;
+	border: 2px solid rgba(180,180,180,0.4);
+}
+.avatar-2e8lTP{
+    border-radius: 5px;
+	border: 2px solid rgba(180,180,180,0.4);
+}
+.avatar_f9f2ca{
+    border-radius: 5px;
+	border: 2px solid rgba(180,180,180,0.4);
+}
+.avatar_c19a55{
+	width: 35px;
+	height: 35px;
+	border-radius: 5px;
+	border: 2px solid rgba(180,180,180,0.4);
+}
+.wrapper__6e9f8{ 
+	width: 44px;
+	height: 44px;
+}
